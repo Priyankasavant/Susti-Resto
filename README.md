@@ -1,2 +1,2 @@
-# Susti-Resto
+# Sushi-Resto
 Sushi Resto
